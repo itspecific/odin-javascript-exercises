@@ -12,5 +12,7 @@ const reverseString = function(reverseString) {
 
 };
 
+// Also, this could be done just by .split("").reverse().join("");
+
 // Do not edit below this line
 module.exports = reverseString;
